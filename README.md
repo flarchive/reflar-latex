@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of reflar/latex.** Not for installation: use [Packagist](https://packagist.org/packages/reflar/latex) or the [upstream repository](https://github.com/ReFlar/latex).
 
-**0** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/reflar-latex/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^0.1.0-beta.7`
+**1** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/reflar-latex/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.2.0` | 2018-09-15 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/reflar-latex/tree/archive/v0.2.0) |
 
 Catalog entry: [packages/reflar-latex.json](https://github.com/flarchive/archive-index/blob/main/packages/reflar-latex.json)
 
